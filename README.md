@@ -1,30 +1,64 @@
 ## João Souza
 
 ### 🚀 Sobre mim
-Sou um dev que respira propósito e transforma ideias em soluções.  
+Sou dev com sede de criar soluções que respiram inteligência.  
 Graduando em **Análise e Desenvolvimento de Sistemas**.  
-Apaixonado por **automação inteligente**, **Python**, e tudo que poupa tempo e entrega valor.
+Trabalho com **automação inteligente**, **dados**, **código limpo** e **visão de futuro**.
 
-### 🧰 Skills na veia
-- 🐍 Python (automação, RPA, BotCity, Selenium)
-- 📊 Business Intelligence (Power BI, KPIs, dashboards)
-- 🧠 IA e Machine Learning aplicados à otimização de processos
-- 🖥️ Web Dev (HTML, CSS, JavaScript, Angular, Node.js)
-- 🐘 PostgreSQL com amor
-- ✅ Clean Code e testes bem feitos
+---
 
-### 💡 Projetos em destaque
-- 🔍 Sistema de recomendação de restaurantes com IA e contexto real
-- 📊 Dashboards interativos com Power BI integrados a dados vivos
-- ⚙️ Robôs que clicam, leem, baixam, extraem e resolvem com maestria
+### 🧰 Stack atual
 
-### 📚 No corre de aprender mais sobre
-- Deep Learning
-- Arquiteturas de software
-- Data Engineering
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![BotCity](https://img.shields.io/badge/BotCity-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🤝 Bora trocar ideia?
-Me chama no [LinkedIn](https://www.linkedin.com/in/joaomarceloamaral/) ou dá um salve aqui mesmo no GitHub!
+---
+
+### 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomarceloamaral&langs_count=10&theme=tokyonight&card_width=1000)
+
+---
+
+### 📈 Estatísticas do GitHub
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaomarceloamaral&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+---
+
+### 🌱 Em constante evolução
+Aprendendo mais sobre:
+- Machine Learning aplicado à automação
+- Arquitetura de software
+- Engenharia de dados
+
+---
+
+### 🚀 Meus projetos favoritos
+- [🔍 Recomendação de Restaurantes com IA](https://github.com/Joaomarceloamaral/Restaurant_Recommendations) — Machine Learning + contexto social e geográfico  
+- [📊 ETL e BI para Vendas de Café](https://github.com/Joaomarceloamaral/Coffe_Beans_Sales) — Visualização de dados real-time  
+
+---
+
+### 🔥 Atividade recente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joaomarceloamaral&theme=tokyo-night)
+
+---
+
+### 📫 Como me achar
+- [LinkedIn](https://www.linkedin.com/in/joaomarceloamaral/)
+- Email: **marceloamaral201924@gmail.com**
 
 ---
 
