@@ -25,13 +25,13 @@ Trabalho com **automação inteligente**, **dados**, **código limpo** e **visã
 
 ### 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomarceloamaral&langs_count=10&theme=tokyonight&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo-souza&langs_count=10&theme=tokyonight&card_width=1000)
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaomarceloamaral&show_icons=true&theme=tokyonight&include_all_commits=true)
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomarcelo-souza&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ---
 
@@ -44,19 +44,20 @@ Aprendendo mais sobre:
 ---
 
 ### 🚀 Meus projetos favoritos
-- [🔍 Recomendação de Restaurantes com IA](https://github.com/Joaomarceloamaral/Restaurant_Recommendations) — Machine Learning + contexto social e geográfico  
-- [📊 ETL e BI para Vendas de Café](https://github.com/Joaomarceloamaral/Coffe_Beans_Sales) — Visualização de dados real-time  
+- [🐾 Adotau!](https://github.com/joaomarcelo-souza/adotau) - Angular com Material, para adoção de animais em situação de rua
+- [🔍 Recomendação de Restaurantes com IA](https://github.com/joaomarcelo-souza/Restaurant_Recommendations) — Machine Learning + contexto social e geográfico  
+- [📊 ETL e BI para Vendas de Café](https://github.com/joaomarcelo-souza/Coffe_Beans_Sales) — Visualização de dados real-time  
 
 ---
 
 ### 🔥 Atividade recente
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joaomarceloamaral&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaomarcelo-souza&theme=tokyo-night)
 
 ---
 
 ### 📫 Como me achar
-- [LinkedIn](https://www.linkedin.com/in/joaomarceloamaral/)
+- [LinkedIn](https://www.linkedin.com/in/joaomarcelo-souza/)
 - Email: **marceloamaral201924@gmail.com**
 
 ---
