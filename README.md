@@ -1,9 +1,9 @@
 ## João Souza
 
 ### 🚀 Sobre mim
-Sou dev com sede de criar soluções que respiram inteligência.  
-Graduando em **Análise e Desenvolvimento de Sistemas**.  
-Trabalho com **automação inteligente**, **dados**, **código limpo** e **visão de futuro**.
+Desenvolvedor Python Jr. em formação, apaixonado por **automação inteligente**, **análise de dados** e **criação de soluções escaláveis**.  
+Graduando em **Análise e Desenvolvimento de Sistemas** (conclusão 2025).  
+Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** e automação de processos com **Python, BotCity e Selenium**.
 
 ---
 
@@ -14,10 +14,11 @@ Trabalho com **automação inteligente**, **dados**, **código limpo** e **visã
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![BotCity](https://img.shields.io/badge/BotCity-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -25,7 +26,7 @@ Trabalho com **automação inteligente**, **dados**, **código limpo** e **visã
 
 ### 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo-souza&langs_count=10&theme=tokyonight&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo-souza&langs_count=8&theme=tokyonight&card_width=1000)
 
 ---
 
@@ -36,29 +37,21 @@ Trabalho com **automação inteligente**, **dados**, **código limpo** e **visã
 ---
 
 ### 🌱 Em constante evolução
-Aprendendo mais sobre:
-- Machine Learning aplicado à automação
-- Arquitetura de software
-- Engenharia de dados
+Atualmente focando em:  
+- **Desenvolvimento web full-stack com Angular e FastAPI**  
+- **Boas práticas, Clean Code e arquitetura de software**  
+- **Integração de APIs e automação de processos**
 
 ---
 
-### 🚀 Meus projetos favoritos
-- [🐾 Adotau!](https://github.com/joaomarcelo-souza/adotau) - Angular com Material, para adoção de animais em situação de rua
-- [🔍 Recomendação de Restaurantes com IA](https://github.com/joaomarcelo-souza/Restaurant_Recommendations) — Machine Learning + contexto social e geográfico  
-- [📊 ETL e BI para Vendas de Café](https://github.com/joaomarcelo-souza/Coffe_Beans_Sales) — Visualização de dados real-time  
+### 🚀 Projetos favoritos
+- [🐾 Adotau!](https://github.com/joaomarcelo-souza/adotau) - Plataforma full-stack para adoção de animais, com **Angular Material, FastAPI, PostgreSQL**.
 
 ---
 
-### 🔥 Atividade recente
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaomarcelo-souza&theme=tokyo-night)
-
----
-
-### 📫 Como me achar
-- [LinkedIn](https://www.linkedin.com/in/joaomarcelo-souza/)
-- Email: **marceloamaral201924@gmail.com**
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/joaomarcelo-souza/)  
+- Email: **joaomarcelo.souza.dev@gmail.com**  
 
 ---
 
