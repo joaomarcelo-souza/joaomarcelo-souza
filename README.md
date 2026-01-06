@@ -26,13 +26,13 @@ Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** 
 
 ### 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcelo-souza&langs_count=8&theme=tokyonight&card_width=1000)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaomarcelo-souza&theme=tokyonight)
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomarcelo-souza&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaomarcelo-souza&theme=tokyonight)
 
 ---
 
