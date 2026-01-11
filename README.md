@@ -24,18 +24,6 @@ Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** 
 
 ---
 
-### 📊 Linguagens mais usadas
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaomarcelo-souza&theme=tokyonight)
-
----
-
-### 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaomarcelo-souza&theme=tokyonight)
-
----
-
 ### 🌱 Em constante evolução
 Atualmente focando em:  
 - **Desenvolvimento web full-stack com Angular e FastAPI**  
