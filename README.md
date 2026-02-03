@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim
 Desenvolvedor Python Jr. em formação, apaixonado por **automação inteligente**, **análise de dados** e **criação de soluções escaláveis**.  
-Graduando em **Análise e Desenvolvimento de Sistemas** (conclusão 2025).  
+Graduado em **Análise e Desenvolvimento de Sistemas**.  
 Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** e automação de processos com **Python, BotCity e Selenium**.
 
 ---
@@ -21,6 +21,18 @@ Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 Status do Github
+
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=joaomarcelo-souza&show_icons=true)
+
+---
+
+### 🔥 Atividade no GitHub
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaomarcelo-souza&theme=dracula&hide_border=true)
 
 ---
 
