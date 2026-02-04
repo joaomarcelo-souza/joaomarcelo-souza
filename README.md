@@ -24,12 +24,6 @@ Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** 
 
 ---
 
-### 📊 Status do Github
-
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=joaomarcelo-souza&show_icons=true)
-
----
-
 ### 🔥 Atividade no GitHub
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaomarcelo-souza&theme=dracula&hide_border=true)
