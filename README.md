@@ -3,13 +3,15 @@
 ### 🚀 Sobre mim
 Desenvolvedor Python Jr. em formação, apaixonado por **automação inteligente**, **análise de dados** e **criação de soluções escaláveis**.  
 Graduado em **Análise e Desenvolvimento de Sistemas**.  
-Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** e automação de processos com **Python, BotCity e Selenium**.
+Experiência em desenvolvimento full-stack com **Angular, FastAPI, Node.js, NestJS, PostgreSQL** e automação de processos com **Python, BotCity e Selenium**.
 
 ---
 
 ### 🧰 Stack atual
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![BotCity](https://img.shields.io/badge/BotCity-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
@@ -26,13 +28,14 @@ Experiência em desenvolvimento full-stack com **Angular, FastAPI, PostgreSQL** 
 
 ### 🔥 Atividade no GitHub
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaomarcelo-souza&theme=dracula&hide_border=true)
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=joaomarcelo-souza&theme=github-dark)
 
 ---
 
 ### 🌱 Em constante evolução
 Atualmente focando em:  
-- **Desenvolvimento web full-stack com Angular e FastAPI**  
+- **Backend com Node.js, NestJS e FastAPI**
+- **Frontend com Angular**
 - **Boas práticas, Clean Code e arquitetura de software**  
 - **Integração de APIs e automação de processos**
 
